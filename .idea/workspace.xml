@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b3bcaac4-2a40-4f82-bc78-ceb27499abba" name="Default Changelist" comment="My 1st commit">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/projectMusic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/styling.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Bruce-Springsteen-Born-in-the-USA-album-covers-billboard-1000x1000-compressed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Elvis-Presley-Elvis-Presley-album-covers-billboard-1000x1000-compressed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Lady-Gaga-Fame-Monster-album-covers-billboard-1000x1000-compressed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Madonna-True-Blue-album-covers-billboard-1000x1000-compressed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Nicki-Minaj-The-Pinkprint-greatest-album-covers-billboard-1000x1000-compressed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Nirvana-Nevermind-album-covers-billboard-1000x1000-compressed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Taylor-Swift-1989-album-covers-billboard-1000x1000-compressed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/The-Beatles-Abbey-Road-album-covers-billboard-1000x1000-compressed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/The-Beatles-Sgt-Peppers-lonely-hearts-club-band-album-covers-billboard-1000x1000-compressed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Whitney-Houston-Whitney-Houston-album-covers-billboard-1000x1000-compressed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ariana-grande-sweetner-album-art-2018-billboard-1240-compressed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cardi-b-invasion-of-privacy-album-art-2018-billboard-embed-compressed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="jinesh" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="ProjectId" id="1hndLDacaKNX8YiW7JXPOnALF6R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3bcaac4-2a40-4f82-bc78-ceb27499abba" name="Default Changelist" comment="" />
+      <created>1600650731379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600650731379</updated>
+      <workItem from="1600650733576" duration="4264000" />
+      <workItem from="1600813881268" duration="17521000" />
+      <workItem from="1601083232510" duration="12649000" />
+      <workItem from="1601264935465" duration="3362000" />
+      <workItem from="1601750929058" duration="12425000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My 1st commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="My 1st commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="270" y="0" key="CommitChangelistDialog2" timestamp="1601776109403">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1601776109403" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1601267577690">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601267577690" />
+    <state x="640" y="310" key="Github.ShareDialog" timestamp="1601775844561">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="640" y="310" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1601775844561" />
+    <state x="417" y="117" key="Github.UntrackedFilesDialog" timestamp="1601775873278">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="417" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1601775873278" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1601754027044">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1601754027044" />
+  </component>
+</project>

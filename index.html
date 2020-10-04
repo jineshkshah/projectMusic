@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.22/js/jquery.dataTables.min.js">
+    </script>
+    <script src="https://cdn.datatables.net/1.10.22/js/dataTables.bootstrap4.min.js">
+    </script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+    <meta charset="UTF-8">
+    <title>Music Download Center</title>
+    <link rel="stylesheet" type="text/css"
+          href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"/>
+    <link rel="stylesheet" type="text/css" href="css/styling.css"/>
+    <link rel="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.css"/>
+    <link src="https://cdn.datatables.net/1.10.22/css/dataTables.bootstrap4.min.css">
+
+
+    <script>
+        $(document).ready(function () {
+            $('#music_details').DataTable();
+        });
+    </script>
+</head>
+<body>
+<div class="container">
+    <div class="jumbotron">
+        <div class="row">
+            <div class="col">
+                <h1>Music Search <i class="fa fa-music" aria-hidden="true"></i></h1>
+            </div>
+        </div>
+        <p>Download all of your favourite music from our award winning music services.</p>
+    </div>
+</div>
+<div class="container">
+    <div>
+        <h5>Advance Search:</h5>
+        <div class="row">
+            <div class="col">
+                <label>Name:</label><input class="form-control" type="text">
+            </div>
+            <div class="col">
+                <label>Artist:</label><input class="form-control" type="text">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col">
+                <label>Album:</label><input class="form-control" type="text">
+            </div>
+            <div class="col">
+                <label>Genre:</label><input class="form-control" type="text">
+            </div>
+        </div>
+        <div class="text-center">
+            <button class="btn btn-primary search">Search <i class="fa fa-search"></i></button>
+        </div>
+
+    </div>
+    <h3 style="text-align: center">Top Albums on Billboards:</h3>
+    <div class="row">
+        <div class="col">
+            <img src="images/Taylor-Swift-1989-album-covers-billboard-1000x1000-compressed.jpg"/>
+        </div>
+        <div class="col">
+            <img src="images/Lady-Gaga-Fame-Monster-album-covers-billboard-1000x1000-compressed.jpg">
+        </div>
+        <div class="col">
+            <img src="images/cardi-b-invasion-of-privacy-album-art-2018-billboard-embed-compressed.jpg">
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col">
+            <img src="images/Whitney-Houston-Whitney-Houston-album-covers-billboard-1000x1000-compressed.jpg">
+        </div>
+        <div class="col">
+            <img src="images/The-Beatles-Abbey-Road-album-covers-billboard-1000x1000-compressed.jpg">
+        </div>
+        <div class="col">
+            <img src="images/ariana-grande-sweetner-album-art-2018-billboard-1240-compressed.jpg">
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col">
+            <img src="images/Madonna-True-Blue-album-covers-billboard-1000x1000-compressed.jpg">
+        </div>
+        <div class="col">
+            <img src="images/Bruce-Springsteen-Born-in-the-USA-album-covers-billboard-1000x1000-compressed.jpg"/>
+        </div>
+        <div class="col">
+            <img src="images/The-Beatles-Sgt-Peppers-lonely-hearts-club-band-album-covers-billboard-1000x1000-compressed.jpg"/>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col">
+            <img src="images/Elvis-Presley-Elvis-Presley-album-covers-billboard-1000x1000-compressed.jpg">
+        </div>
+        <div class="col">
+            <img src="images/Nirvana-Nevermind-album-covers-billboard-1000x1000-compressed.jpg">
+        </div>
+        <div class="col">
+            <img src="images/Nicki-Minaj-The-Pinkprint-greatest-album-covers-billboard-1000x1000-compressed.jpg">
+        </div>
+    </div>
+</div>
+
+<div>
+    <table id="music_details" class="table table-striped table-bordered">
+        <thead>
+        <tr>
+            <th class="bg-info">Name</th>
+            <th class="bg-info">Time</th>
+            <th class="bg-info">Artist</th>
+            <th class="bg-info">Album</th>
+            <th class="bg-info">Genre</th>
+            <th class="bg-info">Rating</th>
+            <th class="bg-info">Download</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>Blank Space</td>
+            <td>3:32</td>
+            <td>Taylor Swift</td>
+            <td>1989</td>
+            <td>Country</td>
+            <td>4.8</td>
+            <td>
+                <button class="btn btn-primary"><i class="fa fa-download"></i> Download</button>
+            </td>
+        </tr>
+        <tr>
+            <td>Just Dance</td>
+            <td>4:02</td>
+            <td>Lady Gaga</td>
+            <td>The Fame Monster</td>
+            <td>PoP</td>
+            <td>4.1</td>
+            <td>
+                <button class="btn btn-primary"><i class="fa fa-download"></i> Download</button>
+            </td>
+        </tr>
+        <tr>
+            <td>Drip</td>
+            <td>4:22</td>
+            <td>Cardi B</td>
+            <td>Invasion of Privacy</td>
+            <td>PoP</td>
+            <td>3.8</td>
+            <td>
+                <button class="btn btn-primary"><i class="fa fa-download"></i> Download</button>
+            </td>
+        </tr>
+        <tr>
+            <td>Thinking About You</td>
+            <td>5:26</td>
+            <td>Whitney Houston</td>
+            <td>Whitney Houston</td>
+            <td>Contemporary R&B</td>
+            <td>4.1</td>
+            <td>
+                <button class="btn btn-primary"><i class="fa fa-download"></i> Download</button>
+            </td>
+        </tr>
+        <tr>
+            <td>I Lied</td>
+            <td>4:53</td>
+            <td>Niki Minaj</td>
+            <td>The Pinkprint</td>
+            <td>PoP</td>
+            <td>2.8</td>
+            <td>
+                <button class="btn btn-primary"><i class="fa fa-download"></i> Download</button>
+            </td>
+        </tr>
+        <tr>
+            <td>Come Together</td>
+            <td>4:19</td>
+            <td>The Beatles</td>
+            <td>Abbey Road</td>
+            <td>Rock</td>
+            <td>4.1</td>
+            <td>
+                <button class="btn btn-primary"><i class="fa fa-download"></i> Download</button>
+            </td>
+        </tr>
+        <tr>
+            <td>Blazed</td>
+            <td>3:17</td>
+            <td>Ariana Grande</td>
+            <td>Sweetener</td>
+            <td>PoP</td>
+            <td>3.7</td>
+            <td>
+                <button class="btn btn-primary"><i class="fa fa-download"></i> Download</button>
+            </td>
+        </tr>
+        <tr>
+            <td>White Heat</td>
+            <td>4:40</td>
+            <td>Madonna</td>
+            <td>True Blue</td>
+            <td>PoP</td>
+            <td>4.5</td>
+            <td>
+                <button class="btn btn-primary"><i class="fa fa-download"></i> Download</button>
+            </td>
+        </tr>
+        <tr>
+            <td>Born in the U.S.A.</td>
+            <td>4:43</td>
+            <td>Bruce Springsteen</td>
+            <td>Born in the U.S.A.</td>
+            <td>Classic Rock</td>
+            <td>4.6</td>
+            <td>
+                <button class="btn btn-primary"><i class="fa fa-download"></i> Download</button>
+            </td>
+        </tr>
+        <tr>
+            <td>Lucy in the Sky with Diamonds</td>
+            <td>3:29</td>
+            <td>The Beatles</td>
+            <td>Sgt. Pepper's Lonely Hearts Club Band</td>
+            <td>Rock</td>
+            <td>4.8</td>
+            <td>
+                <button class="btn btn-primary"><i class="fa fa-download"></i> Download</button>
+            </td>
+        </tr>
+        <tr>
+            <td>Blue Suede Shoes</td>
+            <td>2:01</td>
+            <td>Elvis Presley</td>
+            <td>Elvis Presley</td>
+            <td>Rockabilly</td>
+            <td>4.1</td>
+            <td>
+                <button class="btn btn-primary"><i class="fa fa-download"></i> Download</button>
+            </td>
+        </tr>
+        <tr>
+            <td>Smells Like Teen Spirit</td>
+            <td>5:02</td>
+            <td>Nirvana</td>
+            <td>Nevermind</td>
+            <td>alternative/indie</td>
+            <td>4.3</td>
+            <td>
+                <button class="btn btn-primary"><i class="fa fa-download"></i> Download</button>
+            </td>
+        </tr>
+        <caption>Specially curated music list, just for you</caption>
+        </tbody>
+    </table>
+</div>
+
+
+</body>
+</html>

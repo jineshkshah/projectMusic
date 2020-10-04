@@ -1,0 +1,26 @@
+.square {
+    padding-bottom: 100%;
+}
+
+td, th {
+    text-align: center;
+}
+
+img {
+    position: relative;
+    height: 350px;
+    width: 350px;
+    padding: 20px;
+}
+
+.search {
+    padding: 10px;
+    margin: 20px;
+    width: 150px;
+}
+
+caption {
+    text-align: center;
+    color: darkblue;
+    font-weight: bold;
+}
